@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ndownes22
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Electrical Engineering
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: nathanieljdownes@gmail.com
 
 <!---
