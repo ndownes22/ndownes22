@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ndownes22
+# Nathaniel Downes
 - 🌱 I’m currently learning Electrical Engineering
-- 📫 How to reach me: nathanieljdownes@gmail.com
-
-<!---
-ndownes22/ndownes22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact Information
+ [`Email: nathanieljdownes@gmail.com`](mailto:nathanieljdownes@gmail.com)  
+   
+ [`LinkedIn: nathanieldownes`](https://https://www.linkedin.com/in/nathanieldownes/)  
