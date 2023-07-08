@@ -3,4 +3,4 @@
 # Contact Information
  [`Email: nathanieljdownes@gmail.com`](mailto:nathanieljdownes@gmail.com)  
    
- [`LinkedIn: nathanieldownes`](https://https://www.linkedin.com/in/nathanieldownes/)  
+ [`LinkedIn: nathanieldownes`](https://www.linkedin.com/in/nathanieldownes/)  
