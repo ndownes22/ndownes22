@@ -3,10 +3,8 @@
 
 ---
 - I'm Nathaniel, an Electrical and Computer Engineering Masters student at the University of Florida  🐊
-- I'm currently searching for full time positions starting in summer or fall of 2025!
-- My interests include FPGAs, Digital Design, System on Chips, Embedded Systems, and Genetic Programming  
-- I have private repositories of notable coursework. Reach out if you'd like to see any!
-- Education: Graduating with a BSEE in Spring 2024 and MSECE in Spring 2025  
+- My interests include Digital Design, ASICs, FPGAs, and System on Chips
+- Education: Graduating with a MSECE in Spring 2025 and graduated with a BSEE in Spring 2024 and   
 
 
 # 📫 How to reach me:
